@@ -13,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## ✨Let's break the ice
+I am a UI/UX designer with a passion for frontend development. Creating clean, meaningful designs and implementing them into real projects are my second nature. I am fond of travelling and learning new things.
+## 💡What I am up to?
+- Creating portfolio website along with SheCodes Responsive;
+- Learning React and creating weather application using it;
+- Taking part in **frontend-kottans** stage0 course;
+- Learning SASS;
+## 📩Feel free to contact me
+- **email:** sashabalandina2003@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksksa&layout=compact)](https://github.com/Aleksksa/github-readme-stats)
