@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![Hello! My name is Sasha](https://github.com/Aleksksa/Aleksksa/blob/main/main-img.jpg)
 <!--
 **Aleksksa/Aleksksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
