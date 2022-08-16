@@ -23,5 +23,3 @@ I am a UI/UX designer with a passion for frontend development. Creating clean, m
 - [ ] Learning SASS;
 ## 📩Feel free to contact me
 - **email:** sashabalandina2003@gmail.com
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksksa&layout=compact)](https://github.com/Aleksksa/github-readme-stats)
