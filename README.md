@@ -16,10 +16,7 @@ Here are some ideas to get you started:
 ## ✨Let's break the ice
 I am a UI/UX designer with a passion for frontend development. Creating clean, meaningful designs and implementing them into real projects are my second nature. I am fond of travelling and learning new things.
 ## 💡What I am up to?
-- [ ] Creating portfolio website along with SheCodes Responsive;
-- [ ] Learning React and creating weather application using it;
-- [ ] Taking part in **frontend-kottans** stage0 course;
+- [ ] React marathon;
 - [ ] JavaScript Algorithms and Data Structures Certification;
-- [ ] Learning SASS;
 ## 📩Feel free to contact me
 - **email:** sashabalandina2003@gmail.com
