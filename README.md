@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## ✨Let's break the ice
-I am a UI/UX designer with a passion for frontend development. Creating clean, meaningful designs and implementing them into real projects are my second nature. I am fond of travelling and learning new things.
+i am a product designer with a passion for building things.
 ## 💡What I am up to?
 - [ ] React marathon;
 - [ ] JavaScript Algorithms and Data Structures Certification;
-## 📩Feel free to contact me
-- **email:** sashabalandina2003@gmail.com
