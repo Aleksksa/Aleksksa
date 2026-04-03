@@ -1,4 +1,4 @@
-//![Hello! My name is Sasha](https://github.com/Aleksksa/Aleksksa/blob/main/main-img.jpg)
+![Hello! My name is Sasha]
 <!--
 **Aleksksa/Aleksksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ✨Let's break the ice
-i am a product designer with a passion for building things.
-## 💡What I am up to?
-- [ ] React marathon;
-- [ ] JavaScript Algorithms and Data Structures Certification;
+i build things because i can 
+
