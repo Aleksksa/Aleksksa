@@ -14,18 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Sasha Balandina
-
+# Sasha Balandina✨
 Designer crafting digital experiences with a startup mindset.
 I focus on clarity, interaction, and building products that feel right.
 
 ## About
-
 Exploring ideas, building with code, and constantly learning.
 Currently shaping interfaces and experimenting with new tools.
 
 ## Stack
-
 UI/UX • Product Thinking • Figma • Frontend (with AI)
 
 
