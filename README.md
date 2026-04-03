@@ -1,4 +1,4 @@
-![Hello! My name is Sasha]
+
 <!--
 **Aleksksa/Aleksksa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-i build things because i can 
+
+# Sasha Balandina
+
+Designer crafting digital experiences with a startup mindset.
+I focus on clarity, interaction, and building products that feel right.
+
+## About
+
+Exploring ideas, building with code, and constantly learning.
+Currently shaping interfaces and experimenting with new tools.
+
+## Stack
+
+UI/UX • Product Thinking • Figma • Frontend (with AI)
+
 
