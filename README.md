@@ -22,7 +22,4 @@ I focus on clarity, interaction, and building products that feel right.
 Exploring ideas, building with code, and constantly learning.
 Currently shaping interfaces and experimenting with new tools.
 
-## Stack
-UI/UX • Product Thinking • Figma • Frontend (with AI)
-
 
